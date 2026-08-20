@@ -5,6 +5,6 @@
 
 ## Conteúdo confirmado já incluído
 - WhatsApp: (83) 99651-0772 — botão fixo, header e seção final apontam para `https://wa.me/5583996510772`.
-- Instagram: `@ja_climatizacao01` — link ativo no rodapé.
+- Instagram: `@ja_climatizacao1` — link ativo no rodapé.
 - Serviços, diferenciais e textos principais conforme especificado.
 - Nenhuma avaliação, certificado, ano de experiência ou número de clientes foi inventado.
