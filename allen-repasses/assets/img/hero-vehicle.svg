@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" width="960" height="720" role="img" aria-label="Veículo em destaque">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1f25"/>
+      <stop offset="1" stop-color="#0a0b0d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="30%" r="60%">
+      <stop offset="0" stop-color="#ff8c4d" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ff8c4d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="960" height="720" fill="url(#bg)"/>
+  <rect width="960" height="720" fill="url(#glow)"/>
+  <g transform="translate(256, 170)" opacity="0.92">
+    <path d="M60 300c0-14 8-26 20-33l24-46c8-15 24-25 41-25h150c17 0 33 10 41 25l24 46c12 7 20 19 20 33v70c0 8-6 14-14 14h-18c-8 0-14-6-14-14v-10H106v10c0 8-6 14-14 14H74c-8 0-14-6-14-14v-70z" fill="none" stroke="#ff8c4d" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M148 242l16-38c4-9 13-15 23-15h106c10 0 19 6 23 15l16 38H148z" fill="none" stroke="#ff8c4d" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" opacity="0.75"/>
+    <circle cx="132" cy="372" r="30" fill="none" stroke="#ff8c4d" stroke-width="6"/>
+    <circle cx="388" cy="372" r="30" fill="none" stroke="#ff8c4d" stroke-width="6"/>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <text x="32" y="44" fill="#ffffff" opacity="0.55" font-size="13" font-weight="700" letter-spacing="2">ALLEN REPASSES</text>
+    <text x="32" y="692" fill="#ffffff" font-size="20" font-weight="700">Veículo em destaque</text>
+    <text x="32" y="712" fill="#ffffff" opacity="0.55" font-size="12">Imagem ilustrativa — substituir por foto real</text>
+  </g>
+</svg>
